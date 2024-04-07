@@ -42,6 +42,11 @@ public class MainMenuScript : MonoBehaviour
         SceneManager.LoadScene("NextMenu");
     }
 
+    public void goToAbout()
+    {
+        SceneManager.LoadScene("About");
+    }
+
     public void goToMain()
     {
         SceneManager.LoadScene("MainMenu");

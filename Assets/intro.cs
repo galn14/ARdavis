@@ -13,7 +13,7 @@ public class intro : MonoBehaviour
 
     IEnumerator Example()
     {
-        yield return new WaitForSeconds(3);
+        yield return new WaitForSeconds(5);
         SceneManager.LoadScene("MainMenu");
     }
 }
