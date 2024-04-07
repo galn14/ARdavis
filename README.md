@@ -4,6 +4,10 @@ Augmented Reality Data Visualization based on Unity, IATK, and Vuforia
 ## Overview
 This project showcases an innovative approach to data visualization using Augmented Reality (AR) with Unity, leveraging the capabilities of the Immersive Analytics Toolkit (IATK) and Vuforia. It aims to provide users with immersive and interactive data visualization experiences, enhancing understanding and engagement with complex datasets.
 
+### Program preview
+![Frame 12](https://github.com/galn14/ARdavis/assets/90236124/ae5c7759-3ee2-40be-a5d0-1fb3cfa46319)
+
+
 ### Features
 - **Augmented Reality Visualizations:** Utilizes AR to bring data visualizations into the real world, offering a new dimension of interaction.
 - **IATK Integration:** Employs the Immersive Analytics Toolkit for efficient and flexible data visualization within Unity.
