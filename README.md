@@ -50,7 +50,7 @@ A big thank you to the team who have helped make this project possible:
 
 - [ajinata84](https://github.com/ajinata84)
 - [FauziA24](https://github.com/FauziA24)
-- gavintaraka
+- [ipin131](https://github.com/ipin131)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
